@@ -1,0 +1,6 @@
+@site_jeux_certif_HostAddress = http://localhost:5114
+
+GET {{site_jeux_certif_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
